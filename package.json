@@ -1,0 +1,6 @@
+{
+  "name": "akibplayer",
+  "version": "1.0.0",
+  "main": "api/stream.ts",
+  "type": "module"
+}
